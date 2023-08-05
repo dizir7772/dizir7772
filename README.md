@@ -24,7 +24,7 @@
 
 - I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
-- :telescope: I’m working.
+- :telescope: I am currently studying at GoIT.
 
 - :zap: In my free time, I read tech articles.
 
