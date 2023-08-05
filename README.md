@@ -8,6 +8,7 @@
   <a href="https://t.me/dizir7772">
     <img src="https://img.shields.io/badge/telegram-blue" alt="Telegram Badge"/>
   </a>
+  [![Linkedin Badge](https://img.shields.io/badge/-dizir7772-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viacheslav-artemenko-095681278)
 </div>
 
 <h1>
