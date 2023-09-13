@@ -31,7 +31,7 @@
 </div>
 
 <div align="right">
-  <img align="center" src="https://i.ibb.co/y4BCXGq/programmer-4x.png" alt="programmer" />
+  <img align="right"  width="400" src="https://i.ibb.co/y4BCXGq/programmer-4x.png" alt="programmer" />
 </div>
   ---
 
