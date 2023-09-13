@@ -20,8 +20,6 @@
 </div>
 
 ### :man_technologist: About Me :
-<div align="center">
-<p align="left">
   
 - I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
@@ -31,11 +29,6 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dizir7772-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dizir7772/)
   
-</p>
-<p align="right">
-  <img width="400" src="https://i.ibb.co/y4BCXGq/programmer-4x.png" alt="programmer" />
-</p>
-</div>
   ---
 
 ### :hammer_and_wrench: Languages and Tools:
