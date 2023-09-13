@@ -20,7 +20,7 @@
 </div>
 
 ### :man_technologist: About Me :
-
+<div align="left">
 - I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 - :telescope: I am currently studying at GoIT.
@@ -28,7 +28,11 @@
 - :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dizir7772-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dizir7772/)
+</div>
 
+<div align="right">
+  (img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6540901-Programmer")
+</div>
   ---
 
 ### :hammer_and_wrench: Languages and Tools:
