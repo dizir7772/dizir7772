@@ -23,8 +23,6 @@
   
 - I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
-- :telescope: I am currently studying at GoIT.
-
 - :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dizir7772-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dizir7772/)
