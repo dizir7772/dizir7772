@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dizir7772/">
+  <a href="https://www.linkedin.com/in/viacheslav-artemenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/dizir7772">
