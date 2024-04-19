@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/telegram-blue" alt="Telegram Badge"/>
   </a>
 </div>
-   ---
-  [![](https://visitcount.itsvg.in/api?id=dizir7772&icon=0&color=0)]
+  <div>   [![](https://visitcount.itsvg.in/api?id=dizir7772&icon=0&color=0)]</div>
+
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Viacheslav Artemenko</h1>
   <h3 align="center">Python Developer from Ukraine.</h3>
 
