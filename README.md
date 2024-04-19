@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  ---
-  [![](https://visitcount.itsvg.in/api?id=dizir7772&icon=0&color=0)]
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
@@ -10,7 +9,8 @@
   <a href="https://t.me/dizir7772">
     <img src="https://img.shields.io/badge/telegram-blue" alt="Telegram Badge"/>
   </a>
-  (https://visitcount.itsvg.in/api?id=dizir7772&icon=0&color=0)](https://visitcount.itsvg.in)
+  ---
+  [![](https://visitcount.itsvg.in/api?id=dizir7772&icon=0&color=0)]
 </div>
 
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Viacheslav Artemenko</h1>
