@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=dizir7772&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
